@@ -1,0 +1,3 @@
+Création de processus
+voir le nombre de ligne affichée => $ python arbre.py | wc -l
+Le premier processus va créer 4 fils, chaque fils vont crééer 3 fils qui chacun vont créer 2 fils etc...
